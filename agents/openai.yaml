@@ -1,0 +1,4 @@
+interface:
+  display_name: "兰香古风插画 Skill"
+  short_description: "把照片渲染成朦胧去脸的古风色块插画"
+  default_prompt: "Use $lanxiang-gu-feng-illustration to render this photo as a faceless, poetic Chinese classical color-collage illustration."
